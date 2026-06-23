@@ -14,10 +14,10 @@ This project demonstrates predictive analytics and customer segmentation using R
 
 ## Project Components
 
-### Week 5: Random Forest & Gradient Boosting
+### Random Forest & Gradient Boosting
 Built predictive models using random forest and gradient boosting techniques to identify patterns and support data-driven decision-making.
 
-### Week 8: Cluster Analysis
+### Cluster Analysis
 Applied clustering techniques to segment records, uncover behavioral groups, and summarize business insights.
 
 ## Key Skills Demonstrated
