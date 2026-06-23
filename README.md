@@ -27,6 +27,3 @@ Applied clustering techniques to segment records, uncover behavioral groups, and
 - Customer/risk segmentation
 - Data visualization
 - Business insight communication
-
-## Resume Summary
-Built predictive models in R using random forest and gradient boosting, and applied cluster analysis to segment records and communicate business/risk-related insights through visual summaries and documentation.
