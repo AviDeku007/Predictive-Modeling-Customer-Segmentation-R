@@ -13,7 +13,6 @@
 ############################################################################
 
 # ****** OVERVIEW ******
-# Continue code from Week 4 by adding Random Forest and Gradient Boosting.
 
 # HMEQ_Scrubbed.csv dataset 
 
