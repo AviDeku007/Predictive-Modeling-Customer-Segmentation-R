@@ -1,12 +1,11 @@
 ###############################################################################
-# Week 8 Assignment -Cluster Analysis
+# Cluster Analysis
 # Data Set: HMEQ_Scrubbed.csv
 # Student: Avishek Pradhan
 # Date: Feb 24th, 2026
 ############################################################################
 
 # ****** Overview ******
-# This script continues from Week 6 and Week 7.
 # Here I selected: 
 #  few continuous "risk" variables,
 #  run PCA on them,
