@@ -1,5 +1,5 @@
 ############################################################################
-# Week5: Assignment – Decision Trees, Random Forest & Gradient Boosting
+# Assignment – Decision Trees, Random Forest & Gradient Boosting
 # R Data Set: HMEQ_Scrubbed.csv
 # Author Name: Avishek Pradhan
 # Date: Feb 5th, 2026
